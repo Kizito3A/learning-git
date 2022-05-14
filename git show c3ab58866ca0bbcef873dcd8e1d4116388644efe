@@ -1,0 +1,23 @@
+[33mcommit c3ab58866ca0bbcef873dcd8e1d4116388644efe[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: kizito_amandi <kizitoamandi90@gmail.com>
+Date:   Sat May 14 14:40:15 2022 +0100
+
+    added main.go with empty main function
+
+[33mcommit 145d5705790ee760737417d9a3c9ead92937f2d2[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: kizito_amandi <kizitoamandi90@gmail.com>
+Date:   Sat May 14 13:38:34 2022 +0100
+
+    added body{} i main.css
+
+[33mcommit 99d8b69714128a73f7cf07a4755cc231ba055713[m
+Author: kizito_amandi <kizitoamandi90@gmail.com>
+Date:   Sat May 14 13:23:21 2022 +0100
+
+    added -hello git
+
+[33mcommit f17cdce2717e548131e1fe717330108f450e43b9[m
+Author: kizito_amandi <kizitoamandi90@gmail.com>
+Date:   Sat May 14 12:40:30 2022 +0100
+
+    bootstrap project
